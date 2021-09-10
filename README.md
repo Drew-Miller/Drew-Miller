@@ -5,6 +5,8 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/drewmiller-software/)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/drew_t_m)
 
+My name is Drew Miller. I'm a software engineer working in Richland, WA. I work mainly with `Angular`, `.NET Core`, and `SQL`. I have a passion for creating code architecture that makes easy development, scalability, and bug fixes. I'm also a huge music nerd that enjoys playing guitar, piano, and djing.
+
 <br />
 
 - 🌱 I’m currently impoving UI design and prototyping skills
