@@ -10,7 +10,7 @@ My name is Drew Miller. I'm a software engineer working in Richland, WA. I work 
 <br />
 
 - 🌱 I’m currently impoving UI design and prototyping skills
-- 📫 How to reach me at **drew.miller.software@gmail.com**
+- 📫 How to reach me - **drew.miller.software@gmail.com**
 - 🐆 WSU Alumni, go Cougs!
 
 ## 🏆 GitHub Trophies
