@@ -26,8 +26,8 @@ My name is Drew Miller. I'm a software engineer working in Richland, WA. I work 
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </a>
 &nbsp;
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
+<a href="https://vuejs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 </a>
 &nbsp;
 <a href="https://azure.microsoft.com/en-in/" target="_blank">
