@@ -39,7 +39,7 @@ My name is Drew Miller. I'm a software engineer working in Richland, WA. I work 
 </a>
 &nbsp;
 <a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40" />
 </a>
 &nbsp;
 <a href="https://www.w3schools.com/cs/" target="_blank">
