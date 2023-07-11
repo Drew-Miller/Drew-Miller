@@ -19,9 +19,13 @@ My name is Drew Miller. I'm a software engineer working in Richland, WA. I work 
 
 <br/>
 
-## I mostly work with:
+## My Tech Stack:
 
 <p>
+<a href="https://angular.io" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40"/>
+</a>
+&nbsp;
 <a href="https://angular.io" target="_blank">
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
 </a>
@@ -34,16 +38,16 @@ My name is Drew Miller. I'm a software engineer working in Richland, WA. I work 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 </a>
 &nbsp;
+<a href="https://www.w3schools.com/cs/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a>
+&nbsp;
 <a href="https://dotnet.microsoft.com/" target="_blank"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" width="40" height="40"/>
 </a>
 &nbsp;
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" width="40" height="40" />
-</a>
-&nbsp;
-<a href="https://www.w3schools.com/cs/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </a>
 &nbsp;
 <a href="https://git-scm.com/" target="_blank">
