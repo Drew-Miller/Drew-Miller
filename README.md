@@ -1,28 +1,34 @@
-# 👋 Welcome to my repo! [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/drew-miller)
+# "Hello, world!" 
 
-<br />
-
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/drewmiller-software/)
-
-Hello, my name is Drew Miller - Software Engineer est. Feb 7, 1995
-
-<br />
-
-💻 [Website](https://drew-miller.github.io/Portfolio/) | 📫 [Email](drew.miller.software@gmail.com)
-
-<br />
+**Drew Miller** - **Software Engineer** - **est. Feb 7, 1995**
 
 🐆 WSU Alumni, go Cougs!
 
-<br />
+💻 [Website](https://drew-miller.github.io/Portfolio/) | 📫 [Email](drew.miller.software@gmail.com)
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/drewmiller-software/)
 
 ## 🏆 GitHub Trophies
 
 <a href="https://github.com/drew-miller"><img src="https://github-profile-trophy.vercel.app/?username=drew-miller&column=7" alt="drew-miller" /></a>
 
-<br/>
+## 📊 GitHub Stats
 
-## My Tech Stack:
+<a href="https://github.com/drew-miller">
+  <img src="https://github-readme-stats.vercel.app/api?username=drew-miller&show_icons=true&title_color=D97757&icon_color=D97757&hide_border=true" alt="stats" height="165" />
+</a>
+
+<a href="https://github.com/drew-miller">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=drew-miller&layout=compact&title_color=D97757&hide_border=true" alt="top langs" height="165" />
+</a>
+
+<br />
+
+<a href="https://github.com/drew-miller">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=drew-miller&ring=D97757&fire=D97757&currStreakLabel=D97757&hide_border=true" alt="streak" />
+</a>
+
+## Tech Stack
 
 <p>
 
@@ -37,6 +43,10 @@ Hello, my name is Drew Miller - Software Engineer est. Feb 7, 1995
 <a href="https://azure.microsoft.com/en-in/" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
 </a>
+
+<br />
+
+And most importantly...
 
 <a href="https://claude.com/product/claude-code" target="_blank">
   <img src="https://cdn.simpleicons.org/claude/D97757" alt="claude" width="40" height="40"/>
